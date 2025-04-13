@@ -1,0 +1,35 @@
+{
+  "name": "education-website",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@stackframe/js": "^2.8.3",
+    "@stackframe/stack": "^2.8.3",
+    "@supabase/supabase-js": "^2.49.4",
+    "lucide-react": "^0.488.0",
+    "next": "^15.3.0",
+    "next-themes": "^0.4.6",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.21.0",
+    "@types/node": "^22.14.1",
+    "@types/react": "^19.1.1",
+    "@types/react-dom": "^19.1.2",
+    "eslint": "^9.21.0",
+    "eslint-config-next": "^15.3.0",
+    "eslint-plugin-react-hooks": "^5.1.0",
+    "eslint-plugin-react-refresh": "^0.4.19",
+    "globals": "^15.15.0",
+    "typescript": "~5.7.2",
+    "typescript-eslint": "^8.24.1"
+  }
+}
